@@ -1,3 +1,3 @@
 # POO-Java
 
-Exercícios propostos pela matéria Estrutura de Dados, desenvolvidos na linguagem C
+Exercícios propostos pela matéria Programação Orientada a Objetos, desenvolvidos na linguagem Java
